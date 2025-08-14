@@ -2,8 +2,9 @@
 
 ## Proof of run:
 You can see the cached ran python files in here:
-`https://github.com/aclfe/proj1/`
-`links`
+`https://github.com/aclfe/ml_test_stress/3/proj1/tools/__pycache__`
+`https://github.com/aclfe/ml_test_stress/3/proj1/Process/__pycache__`
+
 
 ## Problem Encountered
 - CUDA compatibility issues with PyTorch installation
